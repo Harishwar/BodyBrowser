@@ -1,0 +1,9 @@
+cow_body
+	surface_layer
+	skeletal_layer
+
+surface_layer
+	body
+
+skeletal_layer
+	skeletal

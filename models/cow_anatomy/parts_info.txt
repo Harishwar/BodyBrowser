@@ -1,0 +1,35 @@
+# Parts
+
+body
+	id: 5001
+	type: part
+	display_name_en_us: Cow Body
+
+skeletal
+	id: 5006
+	type: part
+	display_name_en_us: Skeleton
+
+# Layers
+
+surface_layer
+	id: 10
+	type: group
+	display_name_en_us: surface layer
+	layer: yes
+	hidden: yes
+
+skeletal_layer
+	id: 11
+	type: group
+	display_name_en_us: skeletal layer
+	synonyms_en_us: bones
+	layer: yes
+	hidden: yes
+
+# Groups
+
+cow_body
+	id: 1
+	type: group
+	hidden: yes

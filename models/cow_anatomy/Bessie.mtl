@@ -1,0 +1,168 @@
+#
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.9.1158
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+#
+
+newmtl red
+Ka 0 0 0
+Kd 0.787059 0 0
+Ks 0.524706 0 0
+illum 2
+Ns 32
+
+newmtl blue
+Ka 0 0 0
+Kd 0 0.451765 0.9
+Ks 0 0.301176 0.6
+illum 2
+Ns 32
+
+
+newmtl kidney
+Ka 0 0 0
+Kd 0.603922 0.137255 0.137255
+Ks 0.241569 0.054902 0.054902
+illum 2
+Ns 8
+
+newmtl body
+Ka 0 0 0
+Kd 0.624706 0.458824 0.289412
+Ks 0.138824 0.101961 0.0643137
+illum 2
+Ns 8
+
+newmtl hooves
+Ka 0 0 0
+Kd 0.247843 0.178824 0.112941
+Ks 0.123922 0.0894118 0.0564706
+illum 2
+Ns 32
+
+newmtl Tail
+Ka 0 0 0
+Kd 0.247843 0.178824 0.112941
+Ks 0.0619608 0.0447059 0.0282353
+illum 2
+Ns 16
+
+newmtl nerves
+Ka 0 0 0
+Kd 0.878824 0.829412 0.247059
+Ks 0.292941 0.276471 0.082353
+illum 2
+Ns 8
+
+newmtl brain
+Ka 0 0 0
+Kd 0.941176 0.705882 0.309804
+Ks 0.282353 0.211765 0.0929412
+illum 2
+Ns 8
+
+newmtl eye_black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 64
+
+newmtl eyeball
+Ka 0 0 0
+Kd 0.787451 0.787451 0.787451
+Ks 0.196863 0.196863 0.196863
+illum 2
+Ns 64
+
+newmtl eye_iris
+Ka 0 0 0
+Kd 0.310588 0.156863 0.0909804
+Ks 0.0776471 0.0392157 0.0227451
+illum 2
+Ns 64
+
+newmtl trachea
+Ka 0 0 0
+Kd 0.871765 0.836471 0.801176
+Ks 0.290588 0.278824 0.267059
+illum 2
+Ns 8
+
+newmtl lungs
+Ka 0 0 0
+Kd 0.765882 0.564706 0.345882
+Ks 0.42549 0.313726 0.192157
+illum 2
+Ns 8
+
+newmtl hyoid_apparatus
+Ka 0 0 0
+Kd 0.727059 0.617647 0.511765
+Ks 0.403922 0.343137 0.284314
+illum 2
+Ns 8
+
+newmtl laryngeal
+Ka 0 0 0
+Kd 0.790588 0.691765 0.582353
+Ks 0.439216 0.384314 0.323529
+illum 2
+Ns 8
+
+newmtl vocal
+Ka 0 0 0
+Kd 0.444706 0.3 0.229412
+Ks 0.247059 0.166667 0.127451
+illum 2
+Ns 8
+
+newmtl gallbladder
+Ka 0 0 0
+Kd 0.264706 0.338824 0.141176
+Ks 0.0882353 0.112941 0.0470588
+illum 2
+Ns 8
+
+newmtl stomach
+Ka 0 0 0
+Kd 0.497647 0.275294 0.155294
+Ks 0.221176 0.122353 0.0690196
+illum 2
+Ns 64
+
+newmtl duodenum
+Ka 0 0 0
+Kd 0.658824 0.305882 0.2
+Ks 0.197647 0.0917647 0.06
+illum 2
+Ns 64
+
+newmtl TONGUE
+Ka 0 0 0
+Kd 0.694118 0.305882 0.305882
+Ks 0.208235 0.0917647 0.0917647
+illum 2
+Ns 8
+
+newmtl esophagus
+Ka 0 0 0
+Kd 0.497647 0.275294 0.155294
+Ks 0.221176 0.122353 0.0690196
+illum 2
+Ns 64
+
+newmtl liver
+Ka 0 0 0
+Kd 0.363529 0.0847059 0.0847059
+Ks 0.161569 0.0376471 0.0376471
+illum 2
+Ns 8
+
+newmtl spleen
+Ka 0 0 0
+Kd 0.642353 0.324706 0.476471
+Ks 0.214118 0.108235 0.158824
+illum 2
+Ns 8
