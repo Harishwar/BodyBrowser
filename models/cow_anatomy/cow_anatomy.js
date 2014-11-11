@@ -30,6 +30,9 @@ MODELS['Bessie.obj'] = {
     'eye_iris': {
       Kd: [79, 40, 23],
     },
+    'cartilage': {
+      Kd: [71, 109, 158],
+    },
   },
   decodeParams: {
     decodeOffsets: [-8191,-4941,-2641,0,0,-511,-511,-511],
@@ -113,6 +116,15 @@ MODELS['Bessie.obj'] = {
         bboxes: 2656,
         names: ['body', ],
         lengths: [1104, ],
+      },
+    ],
+    'a7589212.cow_anatomy.utf8': [
+      { material: 'cartilage',
+        attribRange: [0, 15427],
+        indexRange: [123416, 29042],
+        bboxes: 210542,
+        names: ['skeletal', ],
+        lengths: [87126, ],
       },
     ],
     '5495c0c0.cow_anatomy.utf8': [

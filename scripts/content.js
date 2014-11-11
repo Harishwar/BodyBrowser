@@ -19,7 +19,7 @@
 o3v.ContentManager = function() {
   this.models_ = o3v.MODELS;
   this.metadata_ = null;
-  this.currentModel_ = -1;  // Force it to cycle to the first model.
+  this.currentModel_ = 1;  // Force it to cycle to the first model.
 
   // metadata caches.
   this.scriptsLoaded_ = {};  // e.g. adult_female.js
