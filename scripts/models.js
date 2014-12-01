@@ -21,12 +21,19 @@
 /* ====================================================================== */
 
 o3v.MODELS = [
-  {
+  /*{
     name: 'Bessie.obj',
     scriptName: 'cow_anatomy.js',
     modelPath: 'models/cow_anatomy/',
     metadataFile: 'entity_metadata.json',
     texturePath: 'models/common/',
     numLayers: 2
+  },*/ {
+    name: 'skeletal.obj',
+    scriptName: 'skeletal.js',
+    modelPath: 'models/skeletal/',
+    metadataFile: 'entity_metadata.json',
+    texturePath: 'models/common/',
+    numLayers: 1
   }
 ];

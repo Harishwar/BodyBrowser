@@ -1,0 +1,945 @@
+# Parts
+
+object_102_object_102
+	id: 5001
+	type: part
+
+object_66_object_66
+	id: 5002
+	type: part
+
+object_109_object_109
+	id: 5003
+	type: part
+
+object_49_object_49
+	id: 5004
+	type: part
+
+object_101_object_101
+	id: 5005
+	type: part
+
+object_60_object_60
+	id: 5006
+	type: part
+
+object_35_object_35
+	id: 5007
+	type: part
+
+object_77_object_77
+	id: 5008
+	type: part
+
+object_53_object_53
+	id: 5009
+	type: part
+
+object_36_object_36
+	id: 5010
+	type: part
+
+object_105_object_105
+	id: 5011
+	type: part
+
+object_4_object_4
+	id: 5012
+	type: part
+
+object_113_object_113
+	id: 5013
+	type: part
+
+object_84_object_84
+	id: 5014
+	type: part
+
+object_16_object_16
+	id: 5015
+	type: part
+
+object_104_object_104
+	id: 5016
+	type: part
+
+object_31_object_31
+	id: 5017
+	type: part
+
+object_96_object_96
+	id: 5018
+	type: part
+
+object_17_object_17
+	id: 5019
+	type: part
+
+object_79_object_79
+	id: 5020
+	type: part
+
+object_1_object_1
+	id: 5021
+	type: part
+
+object_116_object_116
+	id: 5022
+	type: part
+
+object_71_object_71
+	id: 5023
+	type: part
+
+object_19_object_19
+	id: 5024
+	type: part
+
+object_63_object_63
+	id: 5025
+	type: part
+
+object_8_object_8
+	id: 5026
+	type: part
+
+object_73_object_73
+	id: 5027
+	type: part
+
+object_5_object_5
+	id: 5028
+	type: part
+
+object_61_object_61
+	id: 5029
+	type: part
+
+object_51_object_51
+	id: 5030
+	type: part
+
+object_41_object_41
+	id: 5031
+	type: part
+
+object_90_object_90
+	id: 5032
+	type: part
+
+object_21_object_21
+	id: 5033
+	type: part
+
+object_25_object_25
+	id: 5034
+	type: part
+
+object_46_object_46
+	id: 5035
+	type: part
+
+object_83_object_83
+	id: 5036
+	type: part
+
+object_94_object_94
+	id: 5037
+	type: part
+
+object_67_object_67
+	id: 5038
+	type: part
+
+object_34_object_34
+	id: 5039
+	type: part
+
+object_42_object_42
+	id: 5040
+	type: part
+
+object_7_object_7
+	id: 5041
+	type: part
+
+object_15_object_15
+	id: 5042
+	type: part
+
+object_111_object_111
+	id: 5043
+	type: part
+
+object_56_object_56
+	id: 5044
+	type: part
+
+object_54_object_54
+	id: 5045
+	type: part
+
+object_100_object_100
+	id: 5046
+	type: part
+
+object_62_object_62
+	id: 5047
+	type: part
+
+object_93_object_93
+	id: 5048
+	type: part
+
+object_115_object_115
+	id: 5049
+	type: part
+
+object_69_object_69
+	id: 5050
+	type: part
+
+object_76_object_76
+	id: 5051
+	type: part
+
+object_75_object_75
+	id: 5052
+	type: part
+
+object_82_object_82
+	id: 5053
+	type: part
+
+object_108_object_108
+	id: 5054
+	type: part
+
+object_28_object_28
+	id: 5055
+	type: part
+
+object_39_object_39
+	id: 5056
+	type: part
+
+object_72_object_72
+	id: 5057
+	type: part
+
+object_64_object_64
+	id: 5058
+	type: part
+
+object_37_object_37
+	id: 5059
+	type: part
+
+object_48_object_48
+	id: 5060
+	type: part
+
+object_24_object_24
+	id: 5061
+	type: part
+
+object_12_object_12
+	id: 5062
+	type: part
+
+object_99_object_99
+	id: 5063
+	type: part
+
+object_103_object_103
+	id: 5064
+	type: part
+
+object_57_object_57
+	id: 5065
+	type: part
+
+object_74_object_74
+	id: 5066
+	type: part
+
+object_80_object_80
+	id: 5067
+	type: part
+
+object_97_object_97
+	id: 5068
+	type: part
+
+object_92_object_92
+	id: 5069
+	type: part
+
+object_78_object_78
+	id: 5070
+	type: part
+
+object_89_object_89
+	id: 5071
+	type: part
+
+object_59_object_59
+	id: 5072
+	type: part
+
+object_87_object_87
+	id: 5073
+	type: part
+
+object_38_object_38
+	id: 5074
+	type: part
+
+object_112_object_112
+	id: 5075
+	type: part
+
+object_23_object_23
+	id: 5076
+	type: part
+
+object_3_object_3
+	id: 5077
+	type: part
+
+object_55_object_55
+	id: 5078
+	type: part
+
+object_9_object_9
+	id: 5079
+	type: part
+
+object_52_object_52
+	id: 5080
+	type: part
+
+object_32_object_32
+	id: 5081
+	type: part
+
+object_26_object_26
+	id: 5082
+	type: part
+
+object_30_object_30
+	id: 5083
+	type: part
+
+object_10_object_10
+	id: 5084
+	type: part
+
+object_43_object_43
+	id: 5085
+	type: part
+
+object_81_object_81
+	id: 5086
+	type: part
+
+object_114_object_114
+	id: 5087
+	type: part
+
+object_11_object_11
+	id: 5088
+	type: part
+
+object_13_object_13
+	id: 5089
+	type: part
+
+object_20_object_20
+	id: 5090
+	type: part
+
+object_14_object_14
+	id: 5091
+	type: part
+
+object_33_object_33
+	id: 5092
+	type: part
+
+object_106_object_106
+	id: 5093
+	type: part
+
+object_6_object_6
+	id: 5094
+	type: part
+
+object_27_object_27
+	id: 5095
+	type: part
+
+object_95_object_95
+	id: 5096
+	type: part
+
+object_18_object_18
+	id: 5097
+	type: part
+
+object_65_object_65
+	id: 5098
+	type: part
+
+object_22_object_22
+	id: 5099
+	type: part
+
+object_50_object_50
+	id: 5100
+	type: part
+
+object_40_object_40
+	id: 5101
+	type: part
+
+object_88_object_88
+	id: 5102
+	type: part
+
+object_45_object_45
+	id: 5103
+	type: part
+
+object_2_object_2
+	id: 5104
+	type: part
+
+object_110_object_110
+	id: 5105
+	type: part
+
+object_85_object_85
+	id: 5106
+	type: part
+
+object_86_object_86
+	id: 5107
+	type: part
+
+object_29_object_29
+	id: 5108
+	type: part
+
+object_107_object_107
+	id: 5109
+	type: part
+
+object_68_object_68
+	id: 5110
+	type: part
+
+object_58_object_58
+	id: 5111
+	type: part
+
+object_47_object_47
+	id: 5112
+	type: part
+
+object_98_object_98
+	id: 5113
+	type: part
+
+object_91_object_91
+	id: 5114
+	type: part
+
+object_44_object_44
+	id: 5115
+	type: part
+
+object_70_object_70
+	id: 5116
+	type: part
+
+object_102
+	id: 5117
+	type: part
+
+object_66
+	id: 5118
+	type: part
+
+object_109
+	id: 5119
+	type: part
+
+object_49
+	id: 5120
+	type: part
+
+object_101
+	id: 5121
+	type: part
+
+object_60
+	id: 5122
+	type: part
+
+object_35
+	id: 5123
+	type: part
+
+object_77
+	id: 5124
+	type: part
+
+object_53
+	id: 5125
+	type: part
+
+object_36
+	id: 5126
+	type: part
+
+object_105
+	id: 5127
+	type: part
+
+object_4
+	id: 5128
+	type: part
+
+object_113
+	id: 5129
+	type: part
+
+object_84
+	id: 5130
+	type: part
+
+object_16
+	id: 5131
+	type: part
+
+object_104
+	id: 5132
+	type: part
+
+object_31
+	id: 5133
+	type: part
+
+object_96
+	id: 5134
+	type: part
+
+object_17
+	id: 5135
+	type: part
+
+object_79
+	id: 5136
+	type: part
+
+object_1
+	id: 5137
+	type: part
+
+object_116
+	id: 5138
+	type: part
+
+object_71
+	id: 5139
+	type: part
+
+object_19
+	id: 5140
+	type: part
+
+object_63
+	id: 5141
+	type: part
+
+object_8
+	id: 5142
+	type: part
+
+object_73
+	id: 5143
+	type: part
+
+object_5
+	id: 5144
+	type: part
+
+object_61
+	id: 5145
+	type: part
+
+object_51
+	id: 5146
+	type: part
+
+object_41
+	id: 5147
+	type: part
+
+object_90
+	id: 5148
+	type: part
+
+object_21
+	id: 5149
+	type: part
+
+object_25
+	id: 5150
+	type: part
+
+object_46
+	id: 5151
+	type: part
+
+object_83
+	id: 5152
+	type: part
+
+object_94
+	id: 5153
+	type: part
+
+object_67
+	id: 5154
+	type: part
+
+object_34
+	id: 5155
+	type: part
+
+object_42
+	id: 5156
+	type: part
+
+object_7
+	id: 5157
+	type: part
+
+object_15
+	id: 5158
+	type: part
+
+object_111
+	id: 5159
+	type: part
+
+object_56
+	id: 5160
+	type: part
+
+object_54
+	id: 5161
+	type: part
+
+object_100
+	id: 5162
+	type: part
+
+object_62
+	id: 5163
+	type: part
+
+object_93
+	id: 5164
+	type: part
+
+object_115
+	id: 5165
+	type: part
+
+object_69
+	id: 5166
+	type: part
+
+object_76
+	id: 5167
+	type: part
+
+object_75
+	id: 5168
+	type: part
+
+object_82
+	id: 5169
+	type: part
+
+object_108
+	id: 5170
+	type: part
+
+object_28
+	id: 5171
+	type: part
+
+object_39
+	id: 5172
+	type: part
+
+object_72
+	id: 5173
+	type: part
+
+object_64
+	id: 5174
+	type: part
+
+object_37
+	id: 5175
+	type: part
+
+object_48
+	id: 5176
+	type: part
+
+object_24
+	id: 5177
+	type: part
+
+object_12
+	id: 5178
+	type: part
+
+object_99
+	id: 5179
+	type: part
+
+object_103
+	id: 5180
+	type: part
+
+object_57
+	id: 5181
+	type: part
+
+object_74
+	id: 5182
+	type: part
+
+object_80
+	id: 5183
+	type: part
+
+object_97
+	id: 5184
+	type: part
+
+object_92
+	id: 5185
+	type: part
+
+object_78
+	id: 5186
+	type: part
+
+object_89
+	id: 5187
+	type: part
+
+object_59
+	id: 5188
+	type: part
+
+object_87
+	id: 5189
+	type: part
+
+object_38
+	id: 5190
+	type: part
+
+object_112
+	id: 5191
+	type: part
+
+object_23
+	id: 5192
+	type: part
+
+object_3
+	id: 5193
+	type: part
+
+object_55
+	id: 5194
+	type: part
+
+object_9
+	id: 5195
+	type: part
+
+object_52
+	id: 5196
+	type: part
+
+object_32
+	id: 5197
+	type: part
+
+object_26
+	id: 5198
+	type: part
+
+object_30
+	id: 5199
+	type: part
+
+object_10
+	id: 5200
+	type: part
+
+object_43
+	id: 5201
+	type: part
+
+object_81
+	id: 5202
+	type: part
+
+object_114
+	id: 5203
+	type: part
+
+object_11
+	id: 5204
+	type: part
+
+object_13
+	id: 5205
+	type: part
+
+object_20
+	id: 5206
+	type: part
+
+object_14
+	id: 5207
+	type: part
+
+object_33
+	id: 5208
+	type: part
+
+object_106
+	id: 5209
+	type: part
+
+object_6
+	id: 5210
+	type: part
+
+object_27
+	id: 5211
+	type: part
+
+object_95
+	id: 5212
+	type: part
+
+object_18
+	id: 5213
+	type: part
+
+object_65
+	id: 5214
+	type: part
+
+object_22
+	id: 5215
+	type: part
+
+object_50
+	id: 5216
+	type: part
+
+object_40
+	id: 5217
+	type: part
+
+object_88
+	id: 5218
+	type: part
+
+object_45
+	id: 5219
+	type: part
+
+object_2
+	id: 5220
+	type: part
+
+object_110
+	id: 5221
+	type: part
+
+object_85
+	id: 5222
+	type: part
+
+object_86
+	id: 5223
+	type: part
+
+object_29
+	id: 5224
+	type: part
+
+object_107
+	id: 5225
+	type: part
+
+object_68
+	id: 5226
+	type: part
+
+object_58
+	id: 5227
+	type: part
+
+object_47
+	id: 5228
+	type: part
+
+object_98
+	id: 5229
+	type: part
+
+object_91
+	id: 5230
+	type: part
+
+object_44
+	id: 5231
+	type: part
+
+object_70
+	id: 5232
+	type: part
+
+# Layers
+
+skeletal_layer
+	id: 10
+	type: group
+	display_name_en_us: Human Skeleton
+	layer: yes
+	hidden: yes
+
+# Groups
+
+skeletal
+	id: 1
+	type: group
+	hidden : yes
